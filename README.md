@@ -10,6 +10,7 @@
 Top down RTS tanks or something.<br>
 First person shooter arena w/ guns and blood and stuff.<br>
 Sorta like quake only w/ jetpacks (not like halo 5 jetpacks).<br>
+Gun types, loadouts, specials, power weapons, heath regen.<br>
 PUZZLES.<br>
 </body>
 </html>
